@@ -4,7 +4,7 @@
 
 Пример приложения [FastAPI](https://fastapi.tiangolo.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо]()
+:tada: [Демо](https://timeweb-cloud-app-example-fastapi-593d.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
